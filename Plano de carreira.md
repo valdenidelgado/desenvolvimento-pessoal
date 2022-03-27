@@ -1,6 +1,5 @@
 # Objetivos para o final do ano WIP
 
-
 ### **SOFT SKILLS**
 
 1. Ser uma pessoa autônoma.
