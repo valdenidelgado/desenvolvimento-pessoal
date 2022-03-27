@@ -1,5 +1,8 @@
 # Objetivos para o final do ano
 
+Acrescentar sobre logger para estudo tambem
+Acrescentar sobre os estudos de python
+
 ### SOFT SKILLS
 
 1. Ser uma pessoa autônoma.
@@ -56,7 +59,7 @@
 - [ ] Generics
 - [ ] Interfaces Funcionais
 - [ ] JDBC
-- [x Maven
+- [x] Maven
 2. API Rest
 - [x] Conceito API REST
 - [x] Métodos HTTP/HTTPS
