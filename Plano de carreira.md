@@ -33,7 +33,14 @@
 
 ---
 
-| Melhorar | Ação |
-|---       |   ---|
-| Feedback | Pedir feedback |
+#### Nota comportamental do feedback atual: **2**
 
+| Melhorar           |           Ação                                        |
+|---                 |             ---                                       |
+| Pedir feedback     | Pedir feedback constantemente                         |
+| Dar feedback       | Dar feedback constante, tentar dar feedback 1x ao dia |
+
+
+
+
+**WIP** - *Adicionar mais comportamentos a serem melhorados*. [Seguir planilha da Giovanna](https://docs.google.com/spreadsheets/d/1LDjQZOtnx6B6dXaLe6zYOhtme17dS15vcowpkuBv1FA/edit#gid=1873635190) 
