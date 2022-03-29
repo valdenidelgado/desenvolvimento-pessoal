@@ -19,6 +19,7 @@
     - [ ] Empatia
     - [ ] Inteligência emocional
     - [ ] Criatividade
+    - [ ] Confiança
 4. Organização
     - [ ] Respeitar os horários definidos
     - [ ] Cumprir os prazos
@@ -31,14 +32,27 @@
     - [ ] Buscar por metodologias ageis para aumentar a proatividade/produtividade
     - [ ] Saber onde encontrar e estudar os materiais de estudos
 
+6. Ter senso de dono
+    - [ ] Responsabilidade
+    - [ ] Visão ampla do time
+    - [ ] Alta colaboração
+    - [ ] Começar a dar visibilidade de que consegue assumir responsabilidades
+
+7. Saber lidar com frustação
+    - [ ] Compartilhar com a equipe o que está afetando
+    - [ ] Pedir ajuda G2C2
+    - [ ] Ser positivo
+
 ---
 
 #### Nota comportamental do feedback atual: **2**
 
-| Melhorar           |           Ação                                        |
-|---                 |             ---                                       |
-| Pedir feedback     | Pedir feedback constantemente                         |
-| Dar feedback       | Dar feedback constante, tentar dar feedback 1x ao dia |
+| Melhorar               |           Ação                                        |
+|---                     |             ---                                       |
+| Pedir feedback         | Pedir feedback constantemente                         |
+| Dar feedback           | Dar feedback constante, tentar dar feedback 1x ao dia |
+| Internalizo o feedback | Caso não entender o feedback recebido, fazer perguntas para entender e mudar o que for preciso|
+
 
 
 
