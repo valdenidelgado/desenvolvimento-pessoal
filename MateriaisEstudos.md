@@ -48,7 +48,7 @@ Alguns materiais para estudos
 
 
 02/04
-- Scrum
+- [x] Scrum
 - SQL Mysql
 - Modelagem de dados  
   

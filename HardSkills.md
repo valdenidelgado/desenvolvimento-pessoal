@@ -1,13 +1,15 @@
 ### **Hard Skills**  
 
 1.  **Metodologia Scrum**  
-    - [ ] Ter um curso de SCRUM  
+    - [x] Ter um curso de SCRUM  
     - [ ] Entender sobre o projeto e a sprint  
     - [ ] Entender tudo que acontece no backlog  
     - [ ] Entender tudo que é para se fazer na sprint  
+    - [ ] 
 
 
 ***DREMIO -***
+
 
 
 1. Java
@@ -89,3 +91,9 @@
 9. Mysql
 10. Kafka
 11. Django
+
+
+> info
+
+
+#### titulo
